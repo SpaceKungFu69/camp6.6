@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Camping Trip//Larrabee State Park//EN
+BEGIN:VEVENT
+UID:20250606T213000-Larrabee@yourdomain.com
+DTSTAMP:20250601T000000Z
+DTSTART:20250606T213000Z
+DTEND:20250608T200000Z
+SUMMARY:Camping at Larrabee State Park
+LOCATION:245 Chuckanut Drive, Bellingham, Washington, 98229
+DESCRIPTION:Check-in at 2:30 PM on Friday. Check-out at 1:00 PM on Sunday.
+END:VEVENT
+END:VCALENDAR
