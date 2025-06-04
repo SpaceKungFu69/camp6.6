@@ -25,7 +25,7 @@ DTSTAMP:20250601T000000Z
 DTSTART;TZID=America/Los_Angeles:20250606T143000
 DTEND;TZID=America/Los_Angeles:20250608T130000
 SUMMARY:Camping at Larrabee State Park
-LOCATION:245 Chuckanut Dr, Bellingham, Washington, 98229
+LOCATION:245 Chuckanut Dr Bellingham, Washington, 98229
 DESCRIPTION:Camping at Larrabee State Park\nAddress: 245 Chuckanut Drive, Bellingham, Washington, 98229\nCheck-in: 2:30 PM on Friday, June 6, 2025\nCheck-out: 1:00 PM on Sunday, June 8, 2025
 END:VEVENT
 END:VCALENDAR
